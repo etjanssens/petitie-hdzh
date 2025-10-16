@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Motter Corpus Std';
+    src: url('MotterCorpusStd-Regular.woff2') format('woff2'),
+        url('MotterCorpusStd-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
